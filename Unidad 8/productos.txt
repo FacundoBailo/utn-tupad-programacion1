@@ -1,0 +1,4 @@
+Manzana,1500,10
+Banana,1200,20
+Naranja,1000,15
+Limon,1900,35
